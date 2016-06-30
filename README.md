@@ -1,4 +1,4 @@
-#Predicting Bike Sharing Demand Team
+#Predicting Bike Sharing Demand
 
 INTRODUCTION
 Bike sharing systems have recently been adopted as a new means of transportation by a growing number of cities. These systems have not only automated the process of membership, rental and return; but have also provided a flexible, fast and green alternative for mobility. Users are able to rent a bike from a particular position and return back at another position. This increased flexibility poses the challenge of unpredictable demand as well as irregular flow pattern of the bikes. If we can predict the demand of bikes beforehand, we can prevent imbalance problems like unavailability of bikes or parking docks at the station. In this project, we aim to build such a model for predicting and classifying the number of bike-cycles given a set of input features.
